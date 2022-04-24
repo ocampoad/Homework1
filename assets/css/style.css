@@ -1,13 +1,15 @@
+/* Universal HTML selector */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
-
+/* HTML selector for entire body-- background color of body */
 body {
     background-color: #d9dcd6;
 }
 
+/* Class selector for header- describes background of header */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -15,15 +17,18 @@ body {
     color: #ffffff;
 }
 
+/* Class selector for header- describes position of brand name*/
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
+/*  Class selector for header- color of the letters ".seo"  */
 .header h1 .seo {
     color: #d9dcd6;
 }
 
+/* Class selector for header navigation list- describes background*/
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -32,16 +37,19 @@ body {
     font-size: 20px;
 }
 
+/* Class selector for header navigation list- describes position of navigation list */
 .header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
 
+/* HTML selector- describes color of navigation list */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/* Describes background image */
 .hero {
     height: 800px;
     width: 100%;
@@ -51,6 +59,7 @@ a {
     background-position: center;
 }
 
+/* Describes location and alignment of images */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -61,12 +70,14 @@ a {
     margin-left: 25px;
 }
 
+/* Describes size and alignment of main content */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* Describes size, alignment, font, and color of the side panel */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -78,6 +89,7 @@ a {
     background-color: #2589bd;
 }
 
+/* Describe positioning of sections */
 .benefit-section {
     margin-bottom: 32px;
     color: #ffffff;
@@ -88,12 +100,14 @@ a {
     text-align: center;
 }
 
+/* Describes positioning and size of section images */
 .benefit-section img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
+/* Describes alignment of images and section articles */
 .imagesjpg {
     margin-bottom: 20px;
     padding: 50px;
@@ -103,6 +117,7 @@ a {
     color: #ffffff;
 }
 
+/* Describes position of section images */
 .imagesjpg img {
     max-height: 200px;
 }
@@ -112,6 +127,7 @@ a {
     font-size: 36px;
 }
 
+/* Describes footer information */
 .footer {
     padding: 30px;
     clear: both;
