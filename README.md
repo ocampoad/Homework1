@@ -64,46 +64,25 @@ THEN I find a concise, descriptive title
 
 ### What I learned
 
-This challenge helped me learn about semantic html markups such as <>
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-
-If you want more help with writing markdown, check out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
+This challenge helped me learn about semantic html markups such as ``<header>`` and ``<navigation>``
+I also learned and applied keeping CSS selectors and attributes dry by reducing duplicates. 
+I enjoyed seeing how my code affected, or did not affect, the rendered file. 
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
-
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
+I think I have a pretty good grasp of semantic html elements and CSS selectors and attributes, but I would like to further develop my skills in CSS. There are so many attributes to play around with each having its own syntax. I would also like to understand markdown language; the portability of markdown seems valuable to learn. 
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
+- [W3school- HTML](https://www.w3schools.com/html/default.asp) - W3school gave examples as they described html elements which helped visualize the code.
+- [W3school- CSS](https://www.w3schools.com/css/default.asp) - This provided an in-depth yet easy to access guide to CSS elements. 
+- [Markdown Guide](https://www.markdownguide.org/) - This was a great guide to dive into markdown
+- [GIT Guide](https://github.com/git-guides) - This guide helped me get through creating repositories, cloning and pushing codes. 
 
 ## Author
 
 - Website - [Adriane Ocampo](https://ocampoad.github.io/Homework1/)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
-
 ## Acknowledgments
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+I want to thank Emmanuel for teaching us the ropes of HTML and CSS. I want to thank Scott for providing resources for us to further our understand of each concept. I want to thank Matthew for helping me with my ssh key problems. 
